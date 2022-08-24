@@ -1,4 +1,7 @@
 {
+  "name": "hh-fund-me",
+  "version": "1.0.0",
+  "license": "MIT",
   "devDependencies": {
     "@chainlink/contracts": "^0.4.2",
     "@ethersproject/abi": "^5.4.7",
